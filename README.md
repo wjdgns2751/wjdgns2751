@@ -1,8 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=334455&customColorList=0,2,2,5,30&height=200&section=header&text=BANG%20BANG&fontColor=ffffff&fontSize=52&fontAlign=80&animation=twinkling&rotate=+3&desc=DEVELOPER&descSize=40&descAlignY=25&descAlign=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=34567C&customColorList=0,2,2,5,30&height=200&section=header&text=BANG%20JEONG%20HUN&fontColor=ffffff&fontSize=52&fontAlign=70&animation=twinkling&rotate=+3&desc=DEVELOPER&descSize=40&descAlignY=25&descAlign=80)
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wjdgns2751&show_icons=true&theme=slateorange)  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wjdgns2751&layout=compact&theme=slateorange&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wjdgns2751&show_icons=true&theme=prussian)  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wjdgns2751&layout=compact&theme=prussian&show_icons=true)
 
 <div>
 <img src="https://img.shields.io/badge/Spring -ffffff?style=flat&logo=spring&logoColor=6DB33F">
