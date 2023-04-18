@@ -2,7 +2,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wjdgns2751&show_icons=true&theme=slateorange)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjdgns2751&layout=compact&theme=slateorange&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wjdgns2751&show_icons=true&theme=slateorange)  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wjdgns2751&layout=compact&theme=slateorange&show_icons=true)
 
 <div>
 <img src="https://img.shields.io/badge/Spring -ffffff?style=flat&logo=spring&logoColor=6DB33F">
@@ -25,7 +25,3 @@
 <img src="https://img.shields.io/badge/Openlayers-ffffff?style=flat&logo=Openlayers&logoColor=1F6B75">
 
 </div>
-
-
-
-
